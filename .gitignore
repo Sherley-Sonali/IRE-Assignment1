@@ -1,0 +1,9 @@
+*.zip
+*.pt
+*.ckpt
+__pycache__/
+data/
+*.parquet
+.venv/
+*.log
+.ipynb_checkpoints/
