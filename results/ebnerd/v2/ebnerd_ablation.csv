@@ -1,0 +1,3 @@
+model,dev_auc
+all features (incl. batch aggregates),0.7564863479224794
+serving-safe only,0.7418162849074103
