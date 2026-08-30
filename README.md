@@ -6,7 +6,8 @@
 3. Run notebooks in order: v1 → v2 → v3 (each documents its own prerequisites)
 
 ## Structure
-- notebooks/   — v1 (baseline pipeline), v2 (+relative features), v3 (engineering benchmarks)
+- notebooks/   — v1 (baseline pipeline), v2 (+relative features), v3 (engineering benchmarks) - essentially named v1 : ebnerd-2, mind-2 v2: mind-v3 ebnerd-v3
+- 
 - results/     — all metric CSVs and summaries referenced in design_note.pdf
 - predictions_sample/ — format samples; full predictions submitted to Codabench (see screenshots)
 
