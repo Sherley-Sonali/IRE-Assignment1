@@ -1,0 +1,9 @@
+dataset,metric,before_rerank,after_rerank,delta
+EB-NeRD,auc,0.4846,0.6957,0.2111
+EB-NeRD,mrr,0.3069,0.4578,0.1509
+EB-NeRD,ndcg5,0.3331,0.5172,0.1841
+EB-NeRD,ndcg10,0.4227,0.5683,0.1456
+MIND,auc,0.561,0.6067,0.0457
+MIND,mrr,0.3038,0.3264,0.0226
+MIND,ndcg5,0.2782,0.3025,0.0243
+MIND,ndcg10,0.342,0.3669,0.0249

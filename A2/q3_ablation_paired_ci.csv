@@ -1,0 +1,9 @@
+dataset,metric,n_impressions,mean_delta,ci_lo,ci_hi,significant
+EB-NeRD,auc,5000,0.2111,0.1994,0.2232,true
+EB-NeRD,mrr,5000,0.1508,0.1393,0.162,true
+EB-NeRD,ndcg5,5000,0.1839,0.1714,0.1963,true
+EB-NeRD,ndcg10,5000,0.1456,0.1359,0.1551,true
+MIND,auc,5000,0.0457,0.0387,0.0524,true
+MIND,mrr,5000,0.0227,0.0169,0.0288,true
+MIND,ndcg5,5000,0.0243,0.0186,0.0302,true
+MIND,ndcg10,5000,0.0249,0.0199,0.0302,true
